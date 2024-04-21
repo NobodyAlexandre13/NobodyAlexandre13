@@ -4,6 +4,7 @@
 [![instagram](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black)](https://www.twitch.tv/nobodyalg)
 
 ![Alexandre Sampaio  GitHub stats](https://github-readme-stats.vercel.app/api?username=NobodyAlexandre13&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyAlexandre13&layout=donut)](https://github.com/NobodyAlexandre13/github-readme-stats)
 
 ### <h2>Tecnologia que uso 💻</h2>
 
