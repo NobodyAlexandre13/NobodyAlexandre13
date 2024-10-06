@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Alexandre Sampaio👋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/iamnobodyalg12/)
-[![instagram](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black)](https://www.twitch.tv/nobodyalg)
 
 ![Alexandre Sampaio  GitHub stats](https://github-readme-stats.vercel.app/api?username=NobodyAlexandre13&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NobodyAlexandre13&layout=donut)](https://github.com/NobodyAlexandre13/github-readme-stats)
