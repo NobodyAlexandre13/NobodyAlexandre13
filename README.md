@@ -2,7 +2,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/iamnobodyalg12/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-57599431a/)
-[![linkedin](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-57599431a/)
+[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alexandresampaioportfolio.vercel.app/)
 
 
 ![Alexandre Sampaio  GitHub stats](https://github-readme-stats.vercel.app/api?username=NobodyAlexandre13&show_icons=true&bg_color=00000000)
